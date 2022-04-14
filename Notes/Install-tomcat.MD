@@ -43,6 +43,15 @@ Extract the archive.
 tar -xvzf apache-tomcat-9.0.62.tar.gz
 ```
 
+The following is a description of each of the sub-directories in the installation directory of Apache Tomcat.
+
+- bin – contains the executables.
+- conf – contains configuration files.
+- lib – stores library files.
+- log – stores log files.
+- temp – contains temporary files.
+- webaaps – stores web application files.
+
 Give executing permissions to startup.sh and shutdown.sh which are under bin.
 
 ```bash
